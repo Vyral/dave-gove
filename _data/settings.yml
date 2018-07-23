@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Truckee Real Estate Video Blog with Dave Gove
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -7,41 +7,41 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Dave Gove
   title:
   license_number:
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    Originally from the San Francisco Bay Area, Dave Gove has over 25 years of construction and real estate experience. Gove began his career in construction with a custom home crew in Lake Tahoe California. Systematically working his way through the trades, he acquired hands on experience in literally every aspect of the construction process starting as a laborer and continuing as a leader. A true entrepreneur at heart, Gove painstakingly studied construction and business management at night while working his way through the trades. In 1997 Gove was a founding member of California Craftsmen Inc., a San Francisco based design build general contracting firm. California Craftsmen served homeowners, business owners and investors alike providing high end full scale building renovations in the cities most prestigious neighborhoods, tenant improvements for the burgeoning high tech industry, and rehabilitation projects for RE speculators. Gove moved to Las Vegas in 2002 with the formation of the The Gove Corporation and in 2007 founded Asset Building Group. Gove’s hands on experience combined with his upper level management skills equates to a highly productive leadership style that allows Asset Building Group to maintain tight production schedules while upholding quality. In 2012 Gove's passion for the outdoors and small town life led him back to the Truckee Tahoe area where he is selling and developing real estate along with managing various aspects of single and multi-family residential construction projects.
+  market: Truckee
+  brand: Maverick Builders
+  brokerage: Chase International
+  address: 10344 Donner Pass Rd<br>Truckee, CA 96161
+  phone: 530-575-8737
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: DGove@ChaseInternational.com
+  url: http://DaveGove.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://davegove.chime.me/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://davegove.realscout.com/homesearch/map
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://davegove.chime.me/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://davegove.realscout.com/homesearch/map
 
 lender:
   show_section: false
@@ -57,11 +57,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
+  facebook_url: http://www.facebook.com/ChaseInternational
   linkedin_url:
   gplus_url:
-  youtube_url:
-  twitter_url:
+  youtube_url: https://www.youtube.com/user/ChaseInternationalRE
+  twitter_url: http://twitter.com/ChaseRealEstate
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -81,14 +81,15 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
+  hero_logo_path2: /img/logo2.png
   logo_width_number: 40
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#186691'
+  theme_color: '#10446f'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -100,7 +101,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(0, 0, 0, .75)
 
 buttons:
   button_radius_number: 0
