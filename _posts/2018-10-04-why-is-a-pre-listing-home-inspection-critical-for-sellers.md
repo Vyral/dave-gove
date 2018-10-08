@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Is a Pre-Listing Home Inspection Critical for Sellers?
-date: 2018-10-04 20:18:25
+date: 2018-10-04 20:18:00
 tags:
   - Real Estate
 excerpt: >-
@@ -10,8 +10,8 @@ excerpt: >-
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Dave+Gove/Videos%5C/Truckee+and+Tahoe+Real+Estate-+The+Importance+Of+A+Pre-Listing+Home+Inspection.mp4
 pullquote: >-
-  This example is why it’s very important to know know the actual condition of
-  your home before listing it to the market.
+  This example is why it’s very important to know the actual condition of your
+  home before listing it to the market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -43,5 +43,5 @@ It’s for this reason that sellers need to have their home pre-inspected before
 If you have any questions about the value of your property on today’s market or questions about what certain repairs or upgrades might cost, feel free to reach out to me. I’d be happy to come out to your home for a free, no-obligation consultation.
 {: .present-before-paste}
 
-&nbsp;
+ 
 {: .present-before-paste}
