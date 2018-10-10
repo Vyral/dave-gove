@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'We’re Not in a Real Estate Bubble, and Here’s Why'
-date: 2018-10-08 18:24:11
+date: 2018-10-08 18:24:00
 tags:
   - Market Update
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: xujhgZp5HIs
+youtube_code: 8ErCF3JtJAg
 ---
 
 {% include youtube.html %}
@@ -38,5 +38,3 @@ On top of everything else, we have an extraordinarily high cost for building per
 Though I don’t think we’re in a bubble, I do think there are some older properties in our market that are overpriced because they’re riding the coattails of recent comparable sales. **If you’re a buyer, now might be the time to make your move**, especially with interest rates ratcheting up as well.
 
 If you’d like to get started on the home buying process or have any other questions about our market, feel free to give me a call or shoot me an email. I’d be happy to help you.
-
-&nbsp;
