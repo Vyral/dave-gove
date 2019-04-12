@@ -25,23 +25,23 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://davegove.chime.me/
+  first_CTA_URL: https://www.davegove.com/home_value
   second_CTA_text: Home Search
-  second_CTA_URL: https://davegove.realscout.com/homesearch/map
+  second_CTA_URL: https://www.davegove.com/search#?q_limit=36&q_prioritize=agents.0.id=5794|office.id=PUI05&mlsId=539&status=1|3&q_sort=createdAt-&q_offset=0
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: http://davegove.chime.me/
+    CTA_url: https://www.davegove.com/home_value
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: https://davegove.realscout.com/homesearch/map
+    CTA_url2: https://www.davegove.com/search#?q_limit=36&q_prioritize=agents.0.id=5794|office.id=PUI05&mlsId=539&status=1|3&q_sort=createdAt-&q_offset=0
 
 lender:
   show_section: false
