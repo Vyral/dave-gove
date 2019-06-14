@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What the Numbers Say About Our Truckee Market
-date: 2019-06-13 18:14:51
+date: 2019-06-13 18:14:00
 tags:
   - Market Update
 excerpt: >-
@@ -20,7 +20,7 @@ youtube_code: PuAgSuTjvQc
 
 {% include youtube.html %}
 
-To get a good idea of where our Truckee market is at as we make your way through summer, let’s compare how the first two quarters of this year stack up to last year’s first two quarters (up until May).
+To get a good idea of where our Truckee market is at as we make our way through summer, let’s compare how the first two quarters of this year stack up to last year’s first two quarters (up until May).
 
 Q1 2018:
 
