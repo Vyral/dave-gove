@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are You Getting Multiple Offers on Your Home?
-date: 2019-09-13 18:54:03
+date: 2019-09-13 18:54:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -29,7 +29,7 @@ Receiving more than one offer on your home is exciting, but it can also be overw
 
 **4\. Speak with the loan officer behind each offer.** The agent working on behalf of the buyer may not be the most reliable source when it comes to how they characterize their client. They have a vested interest in their success. The loan officer, however, will be happy to offer any insight into the buyer’s financial standing from an unbiased perspective.
 
-**5\. Select one or two back-up offers.** After you choose the best offer, don’t cut ties with all the interested buyers. Keep the second and third-best offers in your good graces in case you end up working with them down the line.
+**5\. Select one or two backup offers.** After you choose the best offer, don’t cut ties with all the interested buyers. Keep the second and third-best offers in your good graces in case you end up working with them down the line.
 
 {% include pullquote.html %}
 
