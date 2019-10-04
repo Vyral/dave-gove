@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reduce Your Mortgage Now
-date: 2019-10-01 21:01:37
+date: 2019-10-01 21:01:00
 tags:
   - Real Estate
 excerpt: >-
@@ -9,8 +9,8 @@ excerpt: >-
   mortgage term by eight years.
 enclosure:
 pullquote: >-
-  If you want to reduce a 30-year mortgage to 22 years, then, all you have to do
-  make one extra payment a year.
+  If you want to reduce a 30-year mortgage to 22 years, all you have to do make
+  one extra payment a year.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -24,7 +24,7 @@ I have a quick tip to share that will help you save big-time when it comes to yo
 
 There are many types of loans out there, but one thing they all have in common is they’re set for 15- or 30-year terms. I think we all agree that a 15-year term is preferable to a 30-year term, but the problem is that the payments for a shorter term are much higher.&nbsp;
 
-**If you want to reduce a 30-year mortgage to 22 years, then, all you have to do make one extra payment a year.** If you don’t have an extra mortgage payment just lying around that you can spare, you can also pay 1/12th of that payment each month.&nbsp;
+**If you want to reduce a 30-year mortgage to 22 years, all you have to do make one extra payment a year.** If you don’t have an extra mortgage payment just lying around that you can spare, you can also pay 1/12th of that payment each month.&nbsp;
 
 {% include pullquote.html %}
 
