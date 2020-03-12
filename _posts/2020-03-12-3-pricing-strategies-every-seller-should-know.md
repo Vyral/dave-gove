@@ -21,6 +21,7 @@ youtube_code: _HQyZ2MyJVw
 {% include youtube.html %}
 
 <center><em>Are you realistic with your pricing strategy, or is your head in the clouds? Here’s how to find out.</em></center>
+&nbsp;
 
 Here are the three main pricing strategies every seller should know:&nbsp;
 
