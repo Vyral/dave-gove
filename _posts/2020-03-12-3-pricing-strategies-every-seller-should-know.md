@@ -20,6 +20,8 @@ youtube_code: _HQyZ2MyJVw
 
 {% include youtube.html %}
 
+*Are you realistic with your pricing strategy, or is your head in the clouds? Here’s how to find out. *
+
 Here are the three main pricing strategies every seller should know:&nbsp;
 
 **1\. Underpricing.** We could price your home anywhere from 3% to 5% below what comparable homes in your area have recently sold for. This will help you sell your home quickly, and likely for top dollar. Lower asking prices typically generate multiple-offer situations.&nbsp;
