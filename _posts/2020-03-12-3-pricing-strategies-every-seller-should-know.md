@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Pricing Strategies Every Seller Should Know
-date: 2020-03-12 16:28:40
+date: 2020-03-12 16:28:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -34,6 +34,10 @@ There are three market positions your home could fall into based on your pricing
 
 **If you price between 3% and 5% above comparable sales, you’re in no man’s land.** This is where the vast majority of listings sit, and they help other homes in the market sell by way of comparison. These homes generate a lot of showings, but not much serious interest. To get out of no man’s land, the average home will have to undergo a price reduction of $10,000 to $15,000.&nbsp;
 
-&nbsp;
+{% include pullquote.html %}
 
-% include pullquote.html %\}
+**If you price your home 5% to 10% above comparable prices, you’re out of the market completely.** It’s actually better to be out of the market than in no man’s land; if you’re dreaming with your price, then at least this way you’ll be dreaming in peace—no one’s coming to see your home\! You don’t have a chance of selling, but at least you won’t be inconvenienced by buyers inquiring about your home\!
+
+As agents, we have the ability to gauge how your property resonates with buyers through our collections system. We can see how many people on Compass.com have pegged yours as a favorite in their home search.&nbsp;
+
+2020 is going to be a great market year, but there will still be some competitiveness on the selling side. If you’re interested in selling your home soon or are interested in seeing what price you’d be able to get for it if you did sell, reach out to us by phone or email. We’d love to chat with you.&nbsp;
